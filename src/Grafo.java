@@ -1,5 +1,3 @@
-package ProgramacionIII.tp4;
-
 import java.util.Iterator;
 
 public interface Grafo<T> {

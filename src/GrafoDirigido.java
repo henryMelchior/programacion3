@@ -1,8 +1,11 @@
-package ProgramacionIII.tp4;
-
+import java.util.HashMap;
 import java.util.Iterator;
 
 public class GrafoDirigido<T> implements Grafo<T> {
+	private HashMap<Integer,List<Integer>>grafo;
+	public Grafo() {
+		this.grafo=
+	}
 
 	@Override
 	public void agregarVertice(int verticeId) {
