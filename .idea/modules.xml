@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/TPE/TPE.iml" filepath="$PROJECT_DIR$/TPE/TPE.iml" />
       <module fileurl="file://$PROJECT_DIR$/TpGrafos.iml" filepath="$PROJECT_DIR$/TpGrafos.iml" />
     </modules>
   </component>
